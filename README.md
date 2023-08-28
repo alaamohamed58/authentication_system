@@ -97,9 +97,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 We hope this Authentication System helps you enhance the security and user management of your web applications. If you have any questions or need assistance, feel free to reach out.
 
-**Author:** [Your Name](https://github.com/yourusername)
+**Author:** [Alaa Mohamed](https://github.com/alaamohamed58)
 
 **Project Repository:** [https://github.com/alaamohamed58/authentication_system](https://github.com/alaamohamed58/authentication_system)
-```
 
-Remember to replace `[Your Name](https://github.com/yourusername)` with your actual name and GitHub profile link.
