@@ -2,7 +2,9 @@
 ```markdown
 # Authentication System with Express, TypeScript, OOP, and MongoDB
 
-Welcome to the Authentication System repository! This project provides a powerful authentication system built using Express, TypeScript, Object-Oriented Programming (OOP) principles, and MongoDB. It's designed to seamlessly integrate into your web applications, offering robust user registration, login, password reset, and session management functionalities for enhanced security and user management.
+Welcome to the Authentication System repository!
+This project provides a powerful authentication system built using Express, TypeScript, Object-Oriented Programming (OOP) principles,
+and MongoDB. It's designed to seamlessly integrate into your web applications, offering robust user registration, login, password reset, and session management functionalities for enhanced security and user management.
 
 ## Features
 
