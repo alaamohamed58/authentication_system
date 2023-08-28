@@ -7,8 +7,6 @@ This project provides a powerful authentication system built using Express, Type
 and MongoDB. It's designed to seamlessly integrate into your web applications, offering robust user registration, login, password reset, and session management functionalities for enhanced security and user management.
 
 ## Features
-
-- User registration with email verification.
 - Secure user login and session management.
 - Password reset functionality via email.
 - Developed using TypeScript for type-safe development.
