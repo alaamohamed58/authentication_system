@@ -6,6 +6,8 @@ class HttpException extends Error {
     super(message);
     this.statusCode = statusCode;
     this.message = message;
+
+    Error.captureStackTrace(this, this.constructor);
   }
 }
 
